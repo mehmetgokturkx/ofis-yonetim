@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1082192589294",
+    "project_id": "puantajveharcama",
+    "storage_bucket": "puantajveharcama.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082192589294:android:fddb2d0b5f71af17059eff",
+        "android_client_info": {
+          "package_name": "com.example.ofis_yonetim"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCBuu46kCAkQyF71SavZgtWSe1u6FnMyA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
