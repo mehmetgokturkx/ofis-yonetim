@@ -3,7 +3,7 @@
 Bu proje, ofis içi harcamaların ve personel puantaj kayıtlarının dijital ortamda tutulması, yönetilmesi ve raporlanması amacıyla geliştirilmiş bir mobil uygulamadır.
 
 ## 🚀 Özellikler
-* **Harcama Takibi:** Tarih, mekan (Ofis, Depo, General vb.) ve tutar bazlı gider girişi.
+* **Harcama Takibi:** Tarih, mekan (Ofis, Depo vb.) ve tutar bazlı gider girişi.
 * **Puantaj Cetveli:** Personel yevmiye takibi (Tam Gün, Yarım Gün, Mesai, İzinli statüleri).
 * **Bulut Veritabanı:** Cloud Firestore ile gerçek zamanlı veri senkronizasyonu.
 * **Raporlama:** Verilerin `.xlsx` formatında dışa aktarılması ve paylaşılması.
